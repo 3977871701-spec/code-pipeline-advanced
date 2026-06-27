@@ -1,0 +1,17 @@
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+build/
+dist/
+next/
+.env
+*.db
+*.sqlite
+DerivedData/
+*.dylib
+*.so
+*.abi3.so
